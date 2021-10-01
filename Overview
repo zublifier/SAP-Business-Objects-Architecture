@@ -1,0 +1,22 @@
+Background
+The current finance statutory, management, regulatory and operational reporting is delivered via the SAP Business objects suite, which is deployed on premise.  The solution integrates seamlessly into the SAP BW Finance warehouse in terms of data and security concepts. 
+The current on premise deployment is deployed on AIX and Windows servers. 
+In line with the cloud migration strategy an opportunity was identified to transition the Business Objects estate to cloud. 
+The following options were considered for cloud deployment: 
+Managed service on SAP Private Cloud Edition hosted on a hyper-scaler
+Azure Infrastructure as a Service with existing licenses
+
+What is SAP Business Objects?
+The SAP BI Platform (BusinessObjects (“BOBJ”)) is a comprehensive BI solution with native integration to Finance’s Data Warehouse – SAP BW. The SAP BI Platform consists of many components, incl: 
+BI Launchpad
+Reporting Tools(Webi, Analsysi for Office)
+Dashboarding (Lumira)
+Security
+Governance
+Monitoring and Auditing
+
+Business Case
+Both cloud options provides TCO savings over the 5 year period evaluated. However, with the SAP PCE, in addition, the benefits of a managed service allows the bank to run down it’s existing business objects license model in line with the move towards SAP Analytics cloud, and provides an opportunity to significantly reduce shelf-ware license costs across the group.
+Projected reduction in TCO:
+Azure IaaS: R11 million
+SAP Private Cloud Edition: R31 million
